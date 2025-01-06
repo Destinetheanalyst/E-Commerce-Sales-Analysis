@@ -10,14 +10,18 @@
 - [Recommendations](#recommendations)
 - [Conclusion](#conclusion)
 
+---
 ### Project Overview
 This project analyzes key performance indicators for an e-commerce business to gain insights into its sales performance, profitability, and distribution patterns across various categories, regions and segments.
 
+---
 ![Ecommerce Sales Analysis](https://github.com/user-attachments/assets/03ffb2e0-b2bf-457c-9dcc-e06e595c5695)
 
+---
 ### Data Source
 E-Commerce: The primary data set used for this analysis is the "E-commerce Data Set.xlsx", which contains detailed informations.
 
+---
 ### Tools
 - Excel - Data Cleaning
   -[Download_here](https://microsoft.com)
@@ -25,12 +29,14 @@ E-Commerce: The primary data set used for this analysis is the "E-commerce Data 
 - Excel - Data Visualization, and Dashboard.
 - Power Point -  Creating reports.
    -[Download_here](https://microsoft.com)
-
+  
+---
 ### Data Cleaning
  1. Data loading and inspection.
  2. Handling missing values.
  3. Data cleaning and formatting.
-
+    
+---
 ### Exploratory Data Analysis
 EDA involved exploring the E-commerce Sales data to answer key questions, such as:
 1.	Overall Sales and Profit
@@ -39,10 +45,12 @@ EDA involved exploring the E-commerce Sales data to answer key questions, such a
 4.	Sales per Product Category
 5.	Sales Distribution by State and Region
 6.	Sales and Profit by Customer Segments.
-
+   
+---
 ### Data Analysis
-Pivot table function was used to analyze the data to answer questions.
+Pivot table functions was used to analyze the dataset.
 
+---
 ###  Results and Findings
 
 1.	The total Sales is $2,297,200.86
@@ -57,13 +65,15 @@ Pivot table function was used to analyze the data to answer questions.
 10.	The Region with the Most Sale is West Region with $725,457.82
 11.	The State with the Most Sales is California with $ 457,687.63
 12.	The Region with the Least Sales is East Region with $ 391,721.91
-13.	The State with the Least Sales is North Dakota with $ 919.91 
-
+13.	The State with the Least Sales is North Dakota with $ 919.91
+    
+---
 ### Recommendations
 1.	Focus on high-margins categories.
 2.	Strength presence in promising regions.
 3.	Targeting high-value segments
-
+   
+---
 ### Conclusions
 
 This E-commerce sales analysis offers actionable insights that can optimize business performance. It provides trends in customers’ demands and regional performance, with distinct patterns in monthly sales and profitability. Key findings highlight that certain product categories consistently achieve higher profit margins, while specific states and regions untapped growth potentials.
