@@ -1,4 +1,4 @@
-# E-Commerce-Sales-Analysis
+# Optimizing E-Commerce Sales through Analytics
 
 ---
 ### Table of Content
