@@ -14,7 +14,7 @@
 
 ---
 ### Project Overview
-This project analyzes key performance indicators for an e-commerce business to gain insights into its sales performance, profitability, and distribution patterns across various categories, regions and segments.
+To leverage data analytics techniques to uncover sales trends, customer behavior, and product performance in order to develop actionable insights that drive revenue growth, improve customer experience, and enhance overall e-commerce sales efficiency.
 
 ---
 ![Ecommerce Sales Analysis](https://github.com/user-attachments/assets/03ffb2e0-b2bf-457c-9dcc-e06e595c5695)
